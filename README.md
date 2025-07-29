@@ -7,7 +7,7 @@ This repository showcases two machine learning projects developed by Hao-Yu Liao
 ## Project 1: Detect AI vs. Human-Generated Images
 
 **File:** `detect_ai_vs_human_generated_images_Colab.ipynb`  
-**Platform:** Built and trained on **Google Colab**
+**Platform:** Built and trained on *Google Colab*
 **Competition Leaderboard:** [View on Kaggle](https://www.kaggle.com/competitions/detect-ai-vs-human-generated-images/leaderboard) — Search *Howard Liao*  
 **Description:**  
 This notebook was developed for the **Detect AI vs. Human-Generated Images** competition on Kaggle. It features a PyTorch-based convolutional neural network trained on Google Colab to classify whether an image is AI-generated or human-created.
