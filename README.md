@@ -11,7 +11,7 @@ This repository showcases two machine learning projects developed by Hao-Yu Liao
 <br>
 **Competition Leaderboard:** [View on Kaggle](https://www.kaggle.com/competitions/detect-ai-vs-human-generated-images/leaderboard) — Search *Howard Liao*  
 **Description:**  
-This notebook was developed for the **Detect AI vs. Human-Generated Images** competition on Kaggle. It features a PyTorch-based convolutional neural network trained on Google Colab to classify whether an image is AI-generated or human-created.
+This notebook was developed for the **Detect AI vs. Human-Generated Images** competition on Kaggle. It features a PyTorch-based ConvNeXT trained on Google Colab to classify whether an image is AI-generated or human-created.
 
 **Highlights:**
 - The base model is **ConvNeXT**, which I fine-tuned by freezing its core layers and adding custom classification layers for binary prediction (i.e., real vs. fake).
