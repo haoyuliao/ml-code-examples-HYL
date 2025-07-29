@@ -28,7 +28,7 @@ This notebook is part of a GenAI Capstone project. It implements a generative AI
 
 **Highlights:**
 - Integration of LLM for financial reasoning
-- Prompt engineering and logic design
+- Prompt engineering
 - Actions based on historical price trends
 
 ---
