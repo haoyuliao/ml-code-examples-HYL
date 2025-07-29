@@ -2,6 +2,8 @@
 
 This repository showcases two machine learning projects developed by Hao-Yu Liao. Each project is implemented in a Jupyter Notebook and demonstrates practical applications of deep learning and generative AI.
 
+---
+
 ## Project 1: Detect AI vs. Human-Generated Images
 
 **File:** `detect_ai_vs_human_generated_images_Colab.ipynb`
