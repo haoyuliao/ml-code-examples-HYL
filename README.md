@@ -30,7 +30,7 @@ This notebook is part of a GenAI Capstone project. It implements a generative AI
 - Prompt engineering and logic design
 - Actions based on historical price trends
 
-
+---
 **Hao-Yu Liao**  
 Email: [liaohy.howard@gmail.com](mailto:liaohy.howard@gmail.com)  
 GitHub: [github.com/haoyuliao](https://github.com/haoyuliao)
