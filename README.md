@@ -2,8 +2,6 @@
 
 This repository showcases two machine learning projects developed by Hao-Yu Liao. Each project is implemented in a Jupyter Notebook and demonstrates practical applications of deep learning and generative AI.
 
----
-
 ## Project 1: Detect AI vs. Human-Generated Images
 
 **File:** `detect_ai_vs_human_generated_images_Colab.ipynb`
@@ -17,11 +15,9 @@ This notebook was developed for the **Detect AI vs. Human-Generated Images** com
 - The base model is **ConvNeXT**, which I fine-tuned by freezing its core layers and adding custom classification layers for binary prediction (i.e., real vs. fake).
 - Data preprocessing and augmentation
 - Training and evaluation loop
-- Achieved Top 7% ranking (41st out of 554 participants)
+- Achieved a top 7% ranking (41st out of 554 participants) in a Kaggle competition.
 
----
-
-## 📗 Project 2: Generative AI Personal Finance Advisor
+## Project 2: Generative AI Personal Finance Advisor
 
 **File:** `genai-personal-finance-advisor.ipynb`  
 **Platform:** Built and tested on **Kaggle Notebooks** 
@@ -33,7 +29,6 @@ This notebook is part of a GenAI Capstone project. It implements a generative AI
 - Integration of LLM for financial reasoning
 - Prompt engineering and logic design
 - Actions based on historical price trends
-
 
 
 **Hao-Yu Liao**  
