@@ -9,7 +9,7 @@ This repository showcases two machine learning projects developed by Hao-Yu Liao
 **File:** `detect_ai_vs_human_generated_images_Colab.ipynb`
 <br>**Platform:** Built and trained on **Google Colab**
 <br>**Competition Leaderboard:** [View on Kaggle](https://www.kaggle.com/competitions/detect-ai-vs-human-generated-images/leaderboard) — Search *Howard Liao*  
-<br>**Description:**  
+**Description:**  
 This notebook was developed for the **Detect AI vs. Human-Generated Images** competition on Kaggle. It features a PyTorch-based ConvNeXT trained on Google Colab to classify whether an image is AI-generated or human-created.
 
 **Highlights:**
@@ -21,7 +21,7 @@ This notebook was developed for the **Detect AI vs. Human-Generated Images** com
 ## Project 2: Generative AI Personal Finance Advisor
 
 **File:** `genai-personal-finance-advisor.ipynb`  
-<br>**Platform:** Built and tested on **Kaggle Notebooks** 
+**Platform:** Built and tested on **Kaggle Notebooks** 
 <br>**Link:** [View on Kaggle](https://www.kaggle.com/code/haoyuliao14116/genai-personal-finance-advisor)
 <br>**Description:**  
 This notebook is part of a GenAI Capstone project. It implements a generative AI agent using the **Gemini model** to analyze financial data and provide decision-making support for **buy**, **sell**, or **hold** actions.
