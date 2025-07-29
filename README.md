@@ -16,7 +16,7 @@ This notebook was developed for the **Detect AI vs. Human-Generated Images** com
 - The base model is **ConvNeXT**, which I fine-tuned by freezing its core layers and adding custom classification layers for binary prediction (i.e., real vs. fake).
 - Data preprocessing and augmentation
 - Training and evaluation loop
-- Achieved a top 7% ranking (41st out of 554 participants) in a Kaggle competition.
+- Achieved a top 7% solo ranking (41st out of 554 teams) in a Kaggle competition.
 
 ## Project 2: Generative AI Personal Finance Advisor
 
